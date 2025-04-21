@@ -1,3 +1,13 @@
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: [FICT](https://fict.itmo.ru)
+Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
+Year: 2025/2026
+Group: OPOTPICT2-1
+Author: Karpovich Ilya
+Lab: Lab1
+Date of create: 21.04.2025
+Date of finished: 21.04.2025
+
 Зашли в вкладку IAM, создали service account с ролью Storage Admin
 ![2025-04-21_19-26-13](https://github.com/user-attachments/assets/8542902f-8aa6-43d1-bdf9-fd607fb59fed)
 Создал минимальный compute engine (виртуальную машину) с Machine type e2-micro в режиме spot.
