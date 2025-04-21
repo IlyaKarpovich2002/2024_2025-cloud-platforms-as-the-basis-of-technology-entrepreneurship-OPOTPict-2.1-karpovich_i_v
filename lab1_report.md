@@ -1,4 +1,4 @@
-Зайшли в вкладку IAM, создали service account с ролью Storage Admin
+Зашли в вкладку IAM, создали service account с ролью Storage Admin
 ![2025-04-21_19-26-13](https://github.com/user-attachments/assets/8542902f-8aa6-43d1-bdf9-fd607fb59fed)
 Создал минимальный compute engine (виртуальную машину) с Machine type e2-micro в режиме spot.
 ![2025-04-21_19-25-53](https://github.com/user-attachments/assets/2b481d0a-6a7f-4ecd-adb0-c7e3ca95c9d5)
