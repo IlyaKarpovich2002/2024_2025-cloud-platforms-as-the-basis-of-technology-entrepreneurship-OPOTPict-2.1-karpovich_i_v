@@ -17,3 +17,4 @@ Date of finished: 21.04.2025
 Поменял права доступа для вашего service account с Storage Admin на Compute Viewer, попробовал повторить пункт с копированием данных, сделал выводы - нет возможности подключиться к VM.
 ![2025-04-21_21-19-32](https://github.com/user-attachments/assets/5940d00e-4b47-413a-ace5-45b756d1ce76)
 ![2025-04-21_21-18-35](https://github.com/user-attachments/assets/b35a4084-7171-48c8-8be4-3400f8170799)
+11
