@@ -24,7 +24,7 @@ AI-модель: Vertex AI Predictions (предобученные модели)
 Финансовые расчеты:  
 ![image](https://github.com/user-attachments/assets/d68ee9f0-c41a-44fc-8916-7688df647af2)  
 Схема:  
-![image](https://github.com/user-attachments/assets/a431332a-fc0f-40f1-9f0c-1b8abdefed7f)  
+![image](https://github.com/user-attachments/assets/20d80411-310a-4a19-8a7d-35782a5dadf0)  
   
 Описание архитектеры  
 Простая serverless-архитектура с минимальными компонентами. Пользователи обращаются к Cloud Run, который обрабатывает запросы и сохраняет данные в Firestore. Медиафайлы хранятся в Cloud Storage. Vertex AI интегрирован напрямую в Cloud Run для базовых предсказаний. Нет балансировщиков нагрузки и сложных систем мониторинга. Подходит для MVP с нагрузкой до 100 RPS.  
