@@ -52,4 +52,5 @@ Cloud Monitoring алертит о проблемах (падение RPS >5%, 5
 Простота: Полностью управляемые сервисы (минимальный DevOps).  
   
 ![Ai приложение - Frame 1](https://github.com/user-attachments/assets/70fddeac-a54e-4882-8c01-49a0aeaad0e8)
-
+  
+*После защиты решили фронт оставить на react Firebase Hosting
